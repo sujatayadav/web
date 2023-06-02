@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "hello.js",
-  "scripts": {
-    "test": "mocha" 
-  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sujatayadav/web.git"
